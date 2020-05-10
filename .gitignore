@@ -1,3 +1,2 @@
-washington.csv
-new_york.csv
-chicago.csv
+# Other csv/excel files
+*.csv
